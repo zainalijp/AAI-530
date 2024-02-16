@@ -4,3 +4,6 @@ ExtraSensory.per_uuid_features_labels.zip
 ExtraSensory.per_uuid_features_labels/
 ExtraSensory.per_uuid_features_labels-Unzipped/
 ExtraSensory_Combined_User_Data.csv
+
+
+*.pkl
