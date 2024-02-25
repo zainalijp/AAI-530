@@ -59,9 +59,15 @@ AAI-530/
 │
 ├── ExtraSensory_Combined_User_Data_v0.6.ipynb        # Combined data processing: version 6 
 │
+├── ExtraSensory_Combined_User_Data_v0.7.html         # Combined data processing: version 7
+│
 ├── ExtraSensory_Combined_User_Data_v0.7.ipynb        # Combined data processing: version 7
 │
-├── ExtraSensory_Combined_User_Data_v0.9.ipynb        # Combined data processing: cleaning 
+├── ExtraSensory_Combined_User_Data_v0.9.ipynb        # Combined data processing: cleaning
+│
+├── ExtraSensory_Combined_User_Data_v0.91ipynb        # Combined data processing: cleaning
+│
+├── ExtraSensory_Combined_User_Data_v0.92.ipynb       # Combined data processing: cleaning
 │
 ├──LSTM_next_model.h5        # CNN and LSTM attempted version: parameter testing 
 │
