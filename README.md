@@ -2,7 +2,7 @@
 
 ### Repository Overview
 
-This repository contains smartphone sensor data from 60 distinct user CSV files, merged for comprehensive analysis and performance evaluation across various models in diverse iterations. It showcases our approach to data preparation and manipulation within the "ExtraSensory_Combined_User_Data" framework, which details our data cleaning practices and the assorted model variations explored. While the majority of our models are individually archived, initial models tested during the exploratory data analysis phase are exceptions. For insights into our most effective models and access to the streamlined version of our algorithms and code, please refer to "ExtraSensory_Combined_User_Data_v1.0.ipynb". 
+This repository contains smartphone sensor data from 60 distinct user CSV files, merged for comprehensive analysis and performance evaluation across various models in diverse iterations. It showcases our approach to data preparation and manipulation within the "ExtraSensory_Combined_User_Data" framework, which details our data cleaning practices and the assorted model variations explored. While the majority of our models are individually archived, initial models tested during the exploratory data analysis phase are exceptions.  
 
 ---
 
