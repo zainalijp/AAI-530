@@ -35,68 +35,27 @@ The original dataset contained 60 user files, each named with a unique user iden
 ```
 AAI-530/
 │
-├── .vscode        # LSTM attempted version training folder  
-│
-├── LSTM_Model        # LSTM attempted version model folder
-│
-├── .DS_Store        # LSTM attempted version
-│
-├── Business_data_processing.0.1.ipynb        # Preprocessing for business dashboard
-│
-├── ExtraSensory_CNN_LSTM_Model_v1.h5        # Saving attempted CNN LSTM model
-│
-├── ExtraSensory_CNN_LSTM_Model_v2_bs_20.h5        # Saving attempted CNN LSTM model 
-│
-├── ExtraSensory_Combined_User_Data_v0.1.ipynb        # Combined data processing: version 1
-│
-├── ExtraSensory_Combined_User_Data_v0.2.ipynb        # Combined data processing: version 2
-│
-├── ExtraSensory_Combined_User_Data_v0.3.ipynb        # Combined data processing: version 3
-│
-├── ExtraSensory_Combined_User_Data_v0.4.ipynb        # Combined data processing: version 4
-│
-├── ExtraSensory_Combined_User_Data_v0.5.ipynb        # Combined data processing: version 5
-│
-├── ExtraSensory_Combined_User_Data_v0.6.ipynb        # Combined data processing: version 6 
-│
-├── ExtraSensory_Combined_User_Data_v0.7.html         # Combined data processing: version 7
-│
-├── ExtraSensory_Combined_User_Data_v0.7.ipynb        # Combined data processing: version 7
-│
-├── ExtraSensory_Combined_User_Data_v0.9.ipynb        # Combined data processing: cleaning
-│
-├── ExtraSensory_Combined_User_Data_v0.91ipynb        # Combined data processing: cleaning
-│
-├── ExtraSensory_Combined_User_Data_v0.92.ipynb       # Combined data processing: cleaning
-│
-├──LSTM_next_model.h5        # CNN and LSTM attempted version: parameter testing 
-│
-├──fifth_try_2.h5        # CNN and LSTM attempted version: parameter testing 
-│
-├──fifth_try_3.h5        # CNN and LSTM attempted version: parameter testing 
-│
-└──first_try.h5        # CNN and LSTM attempted version: parameter testing 
-│
-├──fourth_try_2.h5        # CNN and LSTM attempted version: parameter testing
-│
-├──requirements.txt        # Attempting to synch requirements between collaborators
-│
-├──second_try.h5        # CNN and LSTM attempted version: parameter testing 
-│
-├──subset.csv        # Data subset for testing  
-│
-├──subset_of_combined_csv_data.csv        # Data subset for testing   
-│
-├──tf_model.h5        # Tensorflow model attempt 
-│
-├──tf_model_v2.h5        # Tensorflow model attempt 
-│
-├──tf_model_v3.h5        # Tensorflow model attempt
-│
-└──third_try.h5        # CNN and LSTM attempted version: parameter testing
-│
-├──third_try_2.h5        # CNN and LSTM attempted version: parameter testing
-│
+├── Business_data_processing.0.1.ipynb
+# Jupyter notebook for preprocessing data for business analytics dashboard. It likely contains data cleaning, transformation, and preparation steps to facilitate business insight generation.
+
+├── Data Subsets
+# Contains various CSV files that are subsets of the main dataset. These files are used for different aspects of the analysis, such as model predictions, feature extraction, and more detailed analyses on smaller, more manageable portions of the data.
+
+├── ExtraSensory_Combined_User_Data_v1.0.ipynb
+# The main Jupyter notebook for the project, containing the latest and most refined version of the data processing and machine learning models. It likely includes comprehensive data analysis, model training, and evaluation.
+
+├── Older Version & Unused Code
+# A folder that stores older versions of the data processing notebooks and possibly experimental code that was not used in the final version. This serves as an archive for tracking the project's progression and storing potential alternative approaches.
+
+├── README.md
+# The README file provides an overview of the project, including a description of its purpose, structure, and instructions on how to navigate and use the repository.
+
+├── Saved Models
+# This folder contains the saved machine learning models, specifically the weights and architecture of neural networks like CNN and LSTM. These files can be loaded to replicate the results or to continue training without starting from scratch.
+
+└── requirements.txt
+# A text file listing all the Python libraries and their versions required to run the notebooks and scripts in the repository. Ensures consistency and ease of setup for new users or environments.
+
 ```
 
 ---
